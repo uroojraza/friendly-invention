@@ -1,0 +1,171 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 100px auto 0 auto;
+  font-size: 60px;
+  font-family: 'Festive', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Festive', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 0;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+}
+
+a {
+  color: #11999E;
+}
+a:hover{
+  color: #EAF6F6;
+}
+p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  line-height: 2;
+}
+
+span {
+  text-decoration: underline;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  color: #EAF6F6;
+  border-width: 7px;
+  width: 10%;
+  margin: 100px auto;
+}
+
+/***************Class Selector**************/
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 20px;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.bottom-container .three {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 280px;
+  top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 250px;
+}
+
+.programmar {
+  font-weight: normal;
+  font-family: 'Dancing Script', cursive;
+}
+
+.profile1 {
+  padding-top: 30px;
+  width: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.code-img {
+  float: left;
+  margin-right: 25px;
+}
+
+.disney-img {
+  width: 200px;
+  height: 120px;
+  float: right;
+  margin-left: 25px;
+}
+
+.cheetos {
+  width: 200px;
+  float: left;
+  margin-right: 25px;
+}
+
+.contact-description {
+  width: 50%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Dancing Script', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  background-color: #66BFBF;
+}
+
+.footer-link {
+  color: #11999E;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.bottom {
+  color: #EAF6F6;
+  font-size: 20px;
+  padding: 20px 0 0;
+}
+
+/**.taylor {
+  background-color: gold;
+  border-radius: 16px;
+}
+.new {
+  padding: 40px;
+  width: 200px;
+}
+**/
